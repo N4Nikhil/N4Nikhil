@@ -3,7 +3,7 @@
 
 ---
 
-A Fullstack Developer specializing in Python, React and Angular technologies. Professional experience with the technologies listed in the ""toolbox"" below.
+A Fullstack Developer specializing in Python, React and Angular technologies. Professional experience with the technologies listed in the toolbox below.
 
 I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble and continuously making strides to learn all that I can about development.
 
