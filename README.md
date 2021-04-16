@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <image src="https://tenor.com/view/dm4uz3-foekoe-foekoe-gaming-the-greenscreen-room-emoji-gif-21042583" width="30px">, I am Nikhil Kadam!
 
 <!--
 **N4Nikhil/N4Nikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
